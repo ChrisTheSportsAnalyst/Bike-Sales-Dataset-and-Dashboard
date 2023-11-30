@@ -1,0 +1,22 @@
+Report:
+
+The dataset contains information about a fictional retail company's sales for a two-week period in 2022. The dataset includes information such as date, time, store location, product name, quantity sold, and total sales. The dashboard provides an overview of the company's sales performance during this two-week period, displaying key performance indicators such as revenue, average sales per day, and top-selling products.
+
+Questions & Answers for Analysis:Questions:
+
+1. What age brackets are most likely to purchase a bike, and how do their purchasing habits compare to other age groups?
+2.How far are customers traveling to purchase a bike, and what impact does distance have on sales?
+3.Are male or female customers more likely to purchase a bike, and how does this vary by product type?
+
+Answers:
+
+1.What age brackets are most likely to purchase a bike, and how do their purchasing habits compare to other age groups?
+Based on the "Customer Age Brackets" chart on the dashboard, customers who are "Adolescent" are the most likely to purchase a bike, followed by customers "Middle Age". Customers aged "Old" are the third most likely to purchase a bike. Customers aged 55 and over are the least likely to purchase a bike. These age groups also exhibit different purchasing habits in terms of product type and price point, with younger customers more likely to purchase lower-priced products and older customers more likely to purchase higher-priced products.
+
+2.How far are customers traveling to purchase a bike, and what impact does distance have on sales?
+Based on the "Customer Distance from Store" chart, customers within a 10-mile radius of the store are the most likely to purchase a bike, followed by customers within a 20-mile radius. Customers traveling from more than 20 miles away are less likely to purchase a bike. Distance has a significant impact on sales, with customers within a 10-mile radius accounting for over 50% of all bike purchases.
+
+3.Are male or female customers more likely to purchase a bike based off income?
+Based on the "Customer Gender" chart on the dashboard, customers who on average have a higher income are more likely to purchase a bike than those who make less per year, with males accounting for 60% of all bike purchases. However, this varies by product type, with female customers more likely to purchase certain types of bikes such as city bikes and cruiser bikes. Male customers are more likely to purchase mountain bikes and road bikes.
+
+In Conclusion, based on the dataset and dashboard, we can conclude that several factors may influence a customer's decision to purchase a bike. The customer's age is an important factor, with younger customers being more price-sensitive and older customers prioritizing quality and features. Another significant factor is the customer's distance from the store, with those living within a 10-mile radius accounting for the majority of bike purchases. Gender also plays a role in bike purchases, with male customers more likely to purchase a bike overall. These factors should be considered by retailers when designing marketing strategies and product offerings to appeal to different customer segments.
